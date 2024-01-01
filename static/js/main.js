@@ -60,7 +60,7 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 
 // ************************************* Typwriter effect *****************
 
-var dataText = ["fullstack developer", "UI/UX Designer"];
+var dataText = ["Frontend developer", "Backend developer", "Fast learner"];
 
 function typeWriter(text, i, fnCallback) {
   if (i < text.length) {
