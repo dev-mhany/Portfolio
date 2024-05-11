@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   padding-top: 70px;
   background-color: #233d41;
   font-weight: 500;
@@ -16,15 +16,15 @@ section {
   background-color: #233d41;
 }
 @font-face {
-  font-family: "Titles";
-  src: url("fonts/Gemsbuck01Black-axn2g.ttf");
+  font-family: 'Titles';
+  src: url('fonts/Gemsbuck01Black-axn2g.ttf');
 }
 #about {
   min-height: 100vh;
   padding-bottom: 1rem;
 }
 #hero_name {
-  font-family: "Titles";
+  font-family: 'Titles', sans-serif;
   margin: 0cm;
 }
 
@@ -59,7 +59,7 @@ section {
 }
 
 #sections {
-  font-family: "Titles";
+  font-family: 'Titles', sans-serif;
   font-size: 2.5rem;
   letter-spacing: 7px;
 }
@@ -190,7 +190,7 @@ strong {
   height: 0;
 }
 .timeline-wrapper:before {
-  content: "";
+  content: '';
   background: #fff176c7;
   width: 1.4px;
   height: 100%;
