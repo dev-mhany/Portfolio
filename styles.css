@@ -1,0 +1,50 @@
+/* General Styles */
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.section-title {
+  margin-left: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.line-container {
+  width: 100px;
+  overflow: hidden;
+}
+
+.line {
+  color: #ffec42;
+  border: 2px #ffec42 solid;
+  opacity: 1;
+  margin: 5px;
+}
+
+.contact-description {
+  margin-left: 5px;
+  color: rgb(215, 215, 215);
+  margin-top: 0;
+  margin-bottom: 3px;
+  font-size: 1.1rem;
+}
+
+.social-links a {
+  color: rgba(156, 203, 250, 0.315);
+}
+
+.contact-form {
+  background-color: #00000fc7;
+  border: 1px solid #fffb0036 !important;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.submit-btn {
+  background-color: #ffec42;
+  border: none;
+  color: #000 !important;
+}
